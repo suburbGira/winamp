@@ -14,7 +14,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Elevator", "Src\Elevator\El
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ElevatorPS", "Src\Elevator\ElevatorPS.vcxproj", "{A929EC04-302E-4B4F-B2A3-65AF63BB088F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "winampa", "Src\winampa\winampa.vcxproj", "{EF082058-B95A-4627-950A-8A825251785D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fuckampa", "Src\fuckampa\fuckampa.vcxproj", "{EF082058-B95A-4627-950A-8A825251785D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xspf", "Src\xspf\xspf.vcxproj", "{3FDDC715-EC20-4FD6-B723-92795736BDD5}"
 EndProject
@@ -118,7 +118,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jnetlib", "Src\replicant\jn
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nx", "Src\replicant\nx\nx.vcxproj", "{57C90706-B25D-4ACA-9B33-95CDB2427C27}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "winampv6", "Src\Winamp\winampv6.vcxproj", "{7DE5C6C7-DAF2-42F9-9324-C8CF4E7E8AC5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fuckampv6", "Src\Fuckamp\fuckampv6.vcxproj", "{7DE5C6C7-DAF2-42F9-9324-C8CF4E7E8AC5}"
 	ProjectSection(ProjectDependencies) = postProject
 		{4A907402-5983-4D6B-8D85-0F61C348319A} = {4A907402-5983-4D6B-8D85-0F61C348319A}
 		{7C58AC02-7941-42BE-8F97-9BF2064D6631} = {7C58AC02-7941-42BE-8F97-9BF2064D6631}
