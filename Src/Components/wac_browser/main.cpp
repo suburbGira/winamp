@@ -25,7 +25,7 @@ void wa::Components::WAC_Browser::DeregisterServices( api_service *p_service )
 }
 
 
-extern "C" DLLEXPORT ifc_wa5component * GetWinamp5SystemComponent()
+extern "C" DLLEXPORT ifc_wa5component * GetFuckamp5SystemComponent()
 {
 	return &_wac_browser;
 }
