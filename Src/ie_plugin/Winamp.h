@@ -3,7 +3,7 @@
 #include <exdisp.h>
 #include <objsafe.h>
 
-class Winamp : public IObjectWithSite, 
+class Fuckamp : public IObjectWithSite, 
 	public IDispatch,
 	public IOleObject,
 	public IPersistStorage,
@@ -11,7 +11,7 @@ class Winamp : public IObjectWithSite,
 	public IObjectSafety
 {
 public:
-	Winamp();
+	Fuckamp();
 		/* IUnknown */
 	HRESULT STDMETHODCALLTYPE QueryInterface(REFIID riid, void __RPC_FAR *__RPC_FAR *ppvObject);
 	ULONG STDMETHODCALLTYPE AddRef(void);
